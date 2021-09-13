@@ -2,7 +2,7 @@
 
 ---
 
-> This is a simple landing page. In this website we can see random buddies.
+> This is a simple landing page. On this website, we can see random 500 buddies.
 
 ---
 
