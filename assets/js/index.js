@@ -4,7 +4,7 @@ spinner.style.display = "none";
 
 const loadData = () => {
   spinner.style.display = "block";
-  fetch("https://randomuser.me/apai/?results=500")
+  fetch("https://randomuser.me/api/?results=500")
     .then((res) => res.json())
     .then((data) => {
       spinner.style.display = "none";
