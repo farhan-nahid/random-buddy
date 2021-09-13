@@ -8,7 +8,7 @@
 
 ##
 
-<!-- <img src="https://i.ibb.co/n6GjFdY/Kanye-West.png" alt="Kanye-West" border="0"> -->
+<img src="https://i.ibb.co/7xDvdTK/Random-Buddy.png" alt="Random-Buddy" border="0">
 
 ---
 
